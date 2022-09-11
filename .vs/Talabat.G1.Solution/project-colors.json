@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2462bffc-1020-47bc-b114-2f4a2fb04c02": {
+      "ProjectGuid": "2462bffc-1020-47bc-b114-2f4a2fb04c02",
+      "DisplayName": "Talabat.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9c810dd0-3383-4457-b0da-3d8e4ada0d88": {
+      "ProjectGuid": "9c810dd0-3383-4457-b0da-3d8e4ada0d88",
+      "DisplayName": "Talabat.BLL",
+      "ColorIndex": 1
+    },
+    "d414664f-6897-4799-8139-1585a911dbdf": {
+      "ProjectGuid": "d414664f-6897-4799-8139-1585a911dbdf",
+      "DisplayName": "Talabat.DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

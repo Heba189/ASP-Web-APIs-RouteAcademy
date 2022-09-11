@@ -1,0 +1,12 @@
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\bin\Debug\net5.0\ref\Talabat.DAL.dll
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
+E:\dream\AAbackend diploma\Api\Talabat.G1.Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
